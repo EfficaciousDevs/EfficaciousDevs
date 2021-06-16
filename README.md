@@ -1,3 +1,13 @@
+## HEY 😃, WELCOME TO MY GITHUB PROFILE 👋
+
+
+![github](https://github.com/AkshayK25/AkshayK25/blob/master/hero.gif)
+
+###  ⚡ Driven by great challenges and learning
+
+⚡ Driven by great challenges
+
+
 - 👋 Hi, I’m @EfficaciousDevs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
