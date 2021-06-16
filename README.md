@@ -3,7 +3,7 @@
 
 ![github](https://github.com/AkshayK25/AkshayK25/blob/master/hero.gif)
 
-###  ⚡ Driven by great challenges and learning new technologies ⚡
+###  ⚡ Driven by Great Challenges and Learning New Technologies ⚡
 
 - 👋 Hi, I’m @EfficaciousDevs
 - 👀 I’m interested in Software Development
