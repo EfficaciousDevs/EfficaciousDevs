@@ -3,15 +3,12 @@
 
 ![github](https://github.com/AkshayK25/AkshayK25/blob/master/hero.gif)
 
-###  ⚡ Driven by great challenges and learning
-
-⚡ Driven by great challenges
-
+###  ⚡ Driven by great challenges and learning new technologies ⚡
 
 - 👋 Hi, I’m @EfficaciousDevs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Full Stack Java
+- 💞️ I’m looking to collaborate on Open Source Contributions
 - 📫 How to reach me ...
 
 <!---
